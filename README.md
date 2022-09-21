@@ -1,4 +1,4 @@
-# E-Commerce Analytics
+# E-Commerce Analytics- Multi Category Store
 
 ## About the files:
 
